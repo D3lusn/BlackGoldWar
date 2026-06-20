@@ -1,6 +1,6 @@
 # Black Gold – Telegram War Strategy Bot
 
-[🇮🇷 Persian](assets/500px(1964–1980).webp) **Designed for Persian-speaking users** – All menus, messages, and commands are in Farsi (Persian).
+<img src="assets/500px(1964–1980).webp" alt="Persian" width="40" height="40" align="center"/> **Designed for Persian-speaking users** – All menus, messages, and commands are in Farsi (Persian).
 
 ⚔️ **A complete geopolitical strategy game inside Telegram**  
 Manage your country, build your army, trade oil and weapons, declare official statements, and attack other nations – all from your Telegram chat.
